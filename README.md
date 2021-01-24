@@ -1,4 +1,4 @@
-# search_TPS - A script to search for monoTPS, diTPS and sesquiTPS sequences in a set of input proteins.
+# search_TPS - A script to search for monoTPS, diTPS and sesquiTPS sequences in a set of input sequences.
 
 search_TPS is a computational tool for the detection and classification of TPS sequences of the monoTPS, diTPS and sesquiTPS classes using class-specific profile PFAMs and HMMs.
 
